@@ -4,7 +4,19 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "csc-A": "#fbfaf7",
+        "csc-B": "#333333",
+        "csc-C": "#464f66",
+        "csc-D": "#6F6F6F",
+        "csc-E": "#52624c"
+      },
+      fontFamily: {
+        "csf-A": "'Poppins', sans-serif",
+        "csf-B": "'Lobster Two', cursive"
+      }
+    },
   },
   plugins: [],
 }
