@@ -15,5 +15,5 @@ root.render(
 )
 
 reportWebVitals()
-// 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
+// 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
 // ssh -i "ngbthg-connect.pem" ec2-user@ec2-13-115-253-231.ap-northeast-1.compute.amazonaws.com
